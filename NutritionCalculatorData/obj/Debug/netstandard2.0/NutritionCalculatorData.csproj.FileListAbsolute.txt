@@ -1,9 +1,0 @@
-C:\Users\th_pa\source\repos\NutritionCalculator\NutritionCalculatorData\bin\Debug\netstandard2.0\NutritionCalculatorData.deps.json
-C:\Users\th_pa\source\repos\NutritionCalculator\NutritionCalculatorData\bin\Debug\netstandard2.0\NutritionCalculatorData.dll
-C:\Users\th_pa\source\repos\NutritionCalculator\NutritionCalculatorData\obj\Debug\netstandard2.0\NutritionCalculatorData.AssemblyInfoInputs.cache
-C:\Users\th_pa\source\repos\NutritionCalculator\NutritionCalculatorData\obj\Debug\netstandard2.0\NutritionCalculatorData.AssemblyInfo.cs
-C:\Users\th_pa\source\repos\NutritionCalculator\NutritionCalculatorData\obj\Debug\netstandard2.0\NutritionCalculatorData.csprojAssemblyReference.cache
-C:\Users\th_pa\source\repos\NutritionCalculator\NutritionCalculatorData\bin\Debug\netstandard2.0\NutritionCalculatorData.pdb
-C:\Users\th_pa\source\repos\NutritionCalculator\NutritionCalculatorData\obj\Debug\netstandard2.0\NutritionCalculatorData.dll
-C:\Users\th_pa\source\repos\NutritionCalculator\NutritionCalculatorData\obj\Debug\netstandard2.0\NutritionCalculatorData.pdb
-C:\Users\th_pa\source\repos\NutritionCalculator\NutritionCalculatorData\obj\Debug\netstandard2.0\NutritionCalculatorData.csproj.CoreCompileInputs.cache
